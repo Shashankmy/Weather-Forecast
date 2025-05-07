@@ -64,6 +64,27 @@ npm run db:push
 npm run dev
 ```
 
+## Deployment
+
+### Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fweather-forecast-app)
+
+1. Push your code to GitHub
+2. Connect your GitHub repository to Vercel
+3. Add your environment variables in the Vercel dashboard
+4. Deploy!
+
+### Deploy to Netlify
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/weather-forecast-app)
+
+## Screenshots
+
+![Home Page](/screenshots/home-page.png)
+![Weather Details](/screenshots/weather-details.png)
+![Dark Mode](/screenshots/dark-mode.png)
+
 ## Credits
 
 - Weather data provided by [OpenWeatherMap](https://openweathermap.org/)
